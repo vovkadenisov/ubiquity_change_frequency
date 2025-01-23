@@ -1,0 +1,19 @@
+- ip: 10.10.10.10
+  base_freq: 2412
+  secondary_freq: 2472
+  base_hour: 10
+  base_minute: 15
+  secondary_hour: 6
+  secondary_minute: 0
+  type: NanoStation_m2
+  login: ubnt
+  password: ubnt
+
+# - ip: 10.10.10.11
+#   base: 2437
+#   secondary: 2462
+#   base_time: 7
+#   secondary_time: 11
+#   type: NanoBeam_m5
+#   login: ubnt
+#   password: ubnt
